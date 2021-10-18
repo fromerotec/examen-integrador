@@ -1,5 +1,5 @@
 ![Tec de Monterrey](images/logotecmty.png)
-# Ejercicios con archivos de textos
+# Examen Integrador
 
 ## Configuración de pruebas con **pytest**
 
@@ -8,26 +8,8 @@
 ```
 sudo -H pip3 install pytest
 ```
-- ## 01 Elimina Última y Primera Palabra
+- ## 01 Examen Integrador
     ### Run command
     ```
-    pytest assignments/01EliminaUltPrimPalabra
-    ```
-
-- ## 02 Archivo Calcula Promedio
-    ### Run command
-    ```
-    pytest assignments/02ArchivoCalculaPromedio
-    ```
-
-- ## 03 Reporte Archivo
-    ### Run command
-    ```
-    pytest assignments/03ReporteArchivo
-    ```
-
-- ## 04 Escribe Archivo
-    ### Run command
-    ```
-    pytest assignments/04EscribeArchivo
+    pytest assignments/01ExamenIntegrador
     ```
